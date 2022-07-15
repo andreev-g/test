@@ -1,0 +1,8 @@
+
+sber ru
+wwwsber.rubles
+
+password=helloworld
+token=helloworld
+
+-----BEGIN OPENSSH PRIVATE KEY-----
