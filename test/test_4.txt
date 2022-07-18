@@ -1,0 +1,8 @@
+
+sberbank  ru sberbank russian bank
+wwwsberbank.rubles
+
+password=helloworld
+token=helloworld
+
+-----BEGIN OPENSSH PRIVATE KEY-----
